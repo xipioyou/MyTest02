@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Test01</string>
+    <string name="title_home">主页</string>
+    <string name="title_dashboard">第二页</string>
+    <string name="title_notifications">第三页</string>
+    <string name="sweep_code">扫码</string>
+</resources>
